@@ -1,0 +1,13 @@
+{
+  "name": "word-doc-builder",
+  "version": "1.0.0",
+  "description": "Build Word document with mathematical equations",
+  "main": "build_final.js",
+  "scripts": {
+    "build": "node build_final.js"
+  },
+  "dependencies": {
+    "docx": "^8.5.0",
+    "adm-zip": "^0.5.10"
+  }
+}
